@@ -23,6 +23,8 @@
 
 
 2. CQRS
+
+
 ![image](https://user-images.githubusercontent.com/36693857/212657856-852355ab-c204-4959-9c48-80ff5cec2ce3.png)
 
 ![image](https://user-images.githubusercontent.com/36693857/212658998-dec25e41-73c0-4835-82cc-9d2df56405b2.png)
