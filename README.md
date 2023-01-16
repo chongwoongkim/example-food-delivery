@@ -18,4 +18,11 @@
     1. 배달상태가 바뀔때마다 카톡 등으로 알림을 줄 수 있어야 한다  Event driven
 
 
-![image](https://user-images.githubusercontent.com/36693857/212653627-aa949b5b-16f2-47f6-9a9d-1d52a0da72fb.png)
+
+![image](https://user-images.githubusercontent.com/36693857/212659090-3ee57ffb-ffa8-499d-a4ad-354803b2ed9a.png)
+
+
+2. CQRS
+![image](https://user-images.githubusercontent.com/36693857/212657856-852355ab-c204-4959-9c48-80ff5cec2ce3.png)
+
+![image](https://user-images.githubusercontent.com/36693857/212658998-dec25e41-73c0-4835-82cc-9d2df56405b2.png)
