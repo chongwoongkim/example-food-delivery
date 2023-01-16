@@ -21,6 +21,13 @@
 
 ![image](https://user-images.githubusercontent.com/36693857/212659090-3ee57ffb-ffa8-499d-a4ad-354803b2ed9a.png)
 
+1.SAGA
+
+![image](https://user-images.githubusercontent.com/36693857/212662539-0bd12225-3985-42ff-bc33-60fdc29921a2.png)
+
+
+![image](https://user-images.githubusercontent.com/36693857/212664010-e5316ffe-6de6-4321-8028-1760ab0404f0.png)
+
 
 2. CQRS
 
